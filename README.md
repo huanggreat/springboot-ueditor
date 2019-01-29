@@ -78,5 +78,5 @@ domUtils.on(input, 'change', function(){
 
 ## 本示例中url的路径采用的是外部路径，可根据自己的服务器部署要求灵活配置
 ![Image text](https://raw.githubusercontent.com/huanggreat/springboot-ueditor/master/%E6%88%AA%E5%9B%BE.png)
-### 如有任何疑问，请联系我QQ ：8150772
+### 如有任何疑问，请联系我！
 
