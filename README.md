@@ -1,5 +1,5 @@
 # springboot-ueditor
-springboot ueditor 整合案例，
+springboot ueditor 整合案例，主要解决图片上传问题（单、多）
 
 
 ## Ueditor 为了解决上传单个图片跨域问题，ueditor.all.js 做过调整
