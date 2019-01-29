@@ -2,7 +2,7 @@
 springboot ueditor 整合案例，
 
 
-## Ueditor 为了解决上传单个图片跨域问题，js做过调整
+## Ueditor 为了解决上传单个图片跨域问题，ueditor.all.js 做过调整
 
 domUtils.on(input, 'change', function(){
                 if(!input.value) return;
