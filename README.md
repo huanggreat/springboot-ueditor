@@ -80,3 +80,10 @@ domUtils.on(input, 'change', function(){
 ![Image text](https://raw.githubusercontent.com/huanggreat/springboot-ueditor/master/%E6%88%AA%E5%9B%BE.png)
 ### 如有任何疑问，请联系我！
 
+## License
+
+[MIT](https://github.com/huanggreat/springboot-uedito/LICENSE)
+
+Copyright (c) 2019-present huanggreat
+
+
